@@ -1,0 +1,84 @@
+{
+    "action": "added",
+    "installation": {
+      "id": 26135830,
+      "account": {
+        "login": "drazisil",
+        "id": 190986,
+        "node_id": "MDQ6VXNlcjE5MDk4Ng==",
+        "avatar_url": "https://avatars.githubusercontent.com/u/190986?v=4",
+        "gravatar_id": "",
+        "url": "https://api.github.com/users/drazisil",
+        "html_url": "https://github.com/drazisil",
+        "followers_url": "https://api.github.com/users/drazisil/followers",
+        "following_url": "https://api.github.com/users/drazisil/following{/other_user}",
+        "gists_url": "https://api.github.com/users/drazisil/gists{/gist_id}",
+        "starred_url": "https://api.github.com/users/drazisil/starred{/owner}{/repo}",
+        "subscriptions_url": "https://api.github.com/users/drazisil/subscriptions",
+        "organizations_url": "https://api.github.com/users/drazisil/orgs",
+        "repos_url": "https://api.github.com/users/drazisil/repos",
+        "events_url": "https://api.github.com/users/drazisil/events{/privacy}",
+        "received_events_url": "https://api.github.com/users/drazisil/received_events",
+        "type": "User",
+        "site_admin": false
+      },
+      "repository_selection": "all",
+      "access_tokens_url": "https://api.github.com/app/installations/26135830/access_tokens",
+      "repositories_url": "https://api.github.com/installation/repositories",
+      "html_url": "https://github.com/settings/installations/26135830",
+      "app_id": 206465,
+      "app_slug": "trackhub-bot",
+      "target_id": 190986,
+      "target_type": "User",
+      "permissions": {
+        "issues": "write",
+        "metadata": "read"
+      },
+      "events": [
+        "issues"
+      ],
+      "created_at": "2022-05-31T20:03:40.000-04:00",
+      "updated_at": "2022-05-31T20:05:43.000-04:00",
+      "single_file_name": null,
+      "has_multiple_single_files": false,
+      "single_file_paths": [
+  
+      ],
+      "suspended_by": null,
+      "suspended_at": null
+    },
+    "repository_selection": "all",
+    "repositories_added": [
+      {
+        "id": 498534864,
+        "node_id": "R_kgDOHbcJ0A",
+        "name": "trackhub",
+        "full_name": "drazisil/trackhub",
+        "private": false
+      }
+    ],
+    "repositories_removed": [
+  
+    ],
+    "requester": null,
+    "sender": {
+      "login": "drazisil",
+      "id": 190986,
+      "node_id": "MDQ6VXNlcjE5MDk4Ng==",
+      "avatar_url": "https://avatars.githubusercontent.com/u/190986?v=4",
+      "gravatar_id": "",
+      "url": "https://api.github.com/users/drazisil",
+      "html_url": "https://github.com/drazisil",
+      "followers_url": "https://api.github.com/users/drazisil/followers",
+      "following_url": "https://api.github.com/users/drazisil/following{/other_user}",
+      "gists_url": "https://api.github.com/users/drazisil/gists{/gist_id}",
+      "starred_url": "https://api.github.com/users/drazisil/starred{/owner}{/repo}",
+      "subscriptions_url": "https://api.github.com/users/drazisil/subscriptions",
+      "organizations_url": "https://api.github.com/users/drazisil/orgs",
+      "repos_url": "https://api.github.com/users/drazisil/repos",
+      "events_url": "https://api.github.com/users/drazisil/events{/privacy}",
+      "received_events_url": "https://api.github.com/users/drazisil/received_events",
+      "type": "User",
+      "site_admin": false
+    }
+  }
